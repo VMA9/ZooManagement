@@ -1,0 +1,2 @@
+# ZooManagement
+PatikaDev ödevidir.
